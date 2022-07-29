@@ -1,5 +1,5 @@
-# eGrid Knowledge Base
+# Introdução
 
 Guia de perguntas frequentes e conhecimento compartilhado sobre a ferramenta eGrid
 
-Este projeto utiliza: https://docsify.js.org/
+> An awesome project.
