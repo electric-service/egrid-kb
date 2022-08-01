@@ -1,4 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Início](/)
+[Início](/#Introdução)
+
 - [Pedagios](./pedagio/guide.md)
+- [Relatórios](./relatorio/guide.md)

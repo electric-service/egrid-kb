@@ -4,10 +4,6 @@
 
 > Base de conhecimento
 
-- Guia de estudos
-- Perguntas frequentes
-- Procedimentos padrão
-
 [Começar](#Introdução)
 
 <!-- background color -->
