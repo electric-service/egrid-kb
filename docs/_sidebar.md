@@ -4,5 +4,5 @@
 
 - [Cadastros](./cadastros/guide.md)
 - [Medições](./medicoes/guide.md)
-<!-- - [Pedagios](./pedagio/guide.md) -->
-- [Relatórios](./relatorio/guide.md)
+  <!-- - [Pedagios](./pedagio/guide.md) -->
+  <!-- - [Relatórios](./relatorio/guide.md) -->
